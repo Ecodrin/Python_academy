@@ -1,5 +1,3 @@
-
-
 def solution(*args):
     print(args[2] - args[0] * args[1])
 

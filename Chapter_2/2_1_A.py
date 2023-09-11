@@ -1,11 +1,9 @@
-def solution(*args):
-    print(*args)
-    print(*args)
-    print(*args)
+def solution(*args, **kwargs):
+    print(args[0])
 
 
 def main():
-    arguments = input()
+    arguments = 'Привет, Яндекс!'
     solution(arguments)
 
 
