@@ -3,13 +3,13 @@ def solution(*args):
     c = args[1]
     w = args[2]
     m = args[3]
-    print('================Чек================')
-    print('Товар:' + ' ' * (35 - 6 - len(name)) + name)
-    print('Цена:' + ' ' * (35 - 5 - 6 - 2 - len(str(c)) - len(str(w)) - 3) + str(w) + 'кг' + ' * ' + str(c) + 'руб/кг')
-    print('Итого:' + ' ' * (35 - 6 - 3 - len(str(w * c))) + str(w * c) + 'руб')
-    print('Внесено:' + ' ' * (35 - 8 - 3 - len(str(m))) + str(m) + 'руб')
-    print('Сдача:' + ' ' * (35 - 6 - 3 - len(str(m - w * c))) + str(m - w * c) + 'руб')
-    print('===================================')
+    print(f'{"Чек":=^35}')
+    print(f'Товар:{name: >29}')
+    print(f'Цена:{(str(w) + "кг * " + str(c)): >24}руб/кг')
+    print(f'Итого:{w * c: >26}руб')
+    print(f'Внесено:{m: >24}руб')
+    print(f'Сдача:{m - w * c: > 26}руб')
+    print(f'{"":=^35}')
 
 
 def main():

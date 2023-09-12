@@ -3,7 +3,6 @@ def solution(*args):
     m = args[1]
     k1 = args[2]
     k2 = args[3]
-    s = n * m
     x = (m * n - n * k2) / (k1 - k2)
     y = n - x
     print(int(x), int(y), sep=' ')
