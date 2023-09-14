@@ -1,16 +1,12 @@
 def solution(s1: str, s2: str, s3: str):
-    ss = ''
-    minl = 10 ** 10
-    if 'зайка' in s1 and minl >= len(s1):
+    ss = 'яяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя'
+    if 'зайка' in s1 and ss > s1:
         ss = s1
-        minl = len(s1)
-    if 'зайка' in s2 and minl >= len(s2):
+    if 'зайка' in s2 and ss > s2:
         ss = s2
-        minl = len(s2)
-    if 'зайка' in s3 and minl >= len(s3):
+    if 'зайка' in s3 and ss > s3:
         ss = s3
-        minl = len(s3)
-    print(ss, minl, sep=' ')
+    print(ss, len(ss), sep=' ')
 
 
 def main():

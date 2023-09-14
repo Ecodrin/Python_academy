@@ -2,19 +2,26 @@ from math import sqrt
 
 
 def solution(a: float, b: float, c: float):
-    if a == 0 and b != 0 and c != 0:
-        print(f'{(-c / b):.2f}')
-    elif a == 0 and b == 0 and c == 0:
-        print('Infinite solutions')
-    elif sqrt(b ** 2 - 4 * a * c) < 0:
-        print('No solution')
-    elif sqrt(b ** 2 - 4 * a * c) == 0:
-        print(f'{-b / (2 * a):.2f}')
+    if a == 0:
+        if b == 0 and c == 0:
+            print('Infinite solutions')
+        elif b == 0:
+            print('No solution')
+        elif c == 0:
+            print(f'{0:.2f}')
+        else:
+            print(f'{-c / b:.2f}')
     else:
-        d = sqrt(b ** 2 - 4 * a * c)
-        aa = float(f'{(-b - d) / (2 * a):.2f}')
-        bb = float(f'{(-b + d) / (2 * a):.2f}')
-        print(min(aa, bb), max(aa, bb))
+        d = b ** 2 - 4 * a * c
+        if d < 0:
+            print('No solution')
+        elif d == 0:
+            print(f'{-b / (2 * a):.2f}')
+        else:
+            d = sqrt(d)
+            x = (-b + d) / (2 * a)
+            y = (-b - d) / (2 * a)
+            print(f'{min(x, y):.2f}', f'{max(x, y):.2f}')
 
 
 def main():
