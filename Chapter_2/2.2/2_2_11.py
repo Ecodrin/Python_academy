@@ -1,8 +1,9 @@
 def solution(p: str):
-    s1 = int(p[0])
-    s2 = int(p[1])
-    s3 = int(p[2])
-    if max(s1, s2, s3) + min(s1, s2, s3) == (s1 + s2 + s3 - max(s1, s2, s3) - min(s1, s2, s3)) * 2:
+    s1, s2, s3 = int(p[0]), int(p[1]), int(p[2])
+    a = max(s1, s2, s3)
+    b = min(s1, s2, s3)
+    c = s1 + s2 + s3 - a - b
+    if a + b == c * 2:
         print('YES')
     else:
         print('NO')

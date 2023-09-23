@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00b17a19-7b5f-4ca9-994c-f996190e43c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2.2/2_2_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2.2/2_2_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2.2/2_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2.2/2_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Chapter_2/2.2/2_2_16.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter_2/3.1/3_1_1_Azb.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -49,8 +54,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.2_4_18_NG2">
-    <configuration name="2_4_15_ChZ2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3_1_20_PolKalc2">
+    <configuration name="2_2_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,12 +63,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/2.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/2.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/2.4/2_4_15_ChZ2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/2.2/2_2_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_4_18_NG2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_1_10_ChAMIN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/2.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/3.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/2.4/2_4_18_NG2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/3.1/3_1_10_ChAMIN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_4_19_ChK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_1_18_RLE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/2.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/3.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/2.4/2_4_19_ChK.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/3.1/3_1_18_RLE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_4_20_MB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_1_19_PolKalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/2.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/3.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/2.4/2_4_20_MB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/3.1/3_1_19_PolKalc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_4_3_NG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_1_20_PolKalc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/2.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2/3.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/2.4/2_4_3_NG.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/3.1/3_1_20_PolKalc2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_4_18_NG2" />
-        <item itemvalue="Python.2_4_20_MB" />
-        <item itemvalue="Python.2_4_19_ChK" />
-        <item itemvalue="Python.2_4_3_NG" />
-        <item itemvalue="Python.2_4_15_ChZ2" />
+        <item itemvalue="Python.3_1_20_PolKalc2" />
+        <item itemvalue="Python.3_1_19_PolKalc" />
+        <item itemvalue="Python.3_1_18_RLE" />
+        <item itemvalue="Python.3_1_10_ChAMIN" />
+        <item itemvalue="Python.2_2_11" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +188,14 @@
       <workItem from="1695209859685" duration="8336000" />
       <workItem from="1695220978760" duration="3000" />
       <workItem from="1695230037053" duration="5000" />
-      <workItem from="1695235880628" duration="1498000" />
+      <workItem from="1695235880628" duration="3968000" />
+      <workItem from="1695366097271" duration="520000" />
+      <workItem from="1695366625772" duration="991000" />
+      <workItem from="1695403756199" duration="1846000" />
+      <workItem from="1695409224000" duration="8633000" />
+      <workItem from="1695449801277" duration="308000" />
+      <workItem from="1695450496385" duration="5079000" />
+      <workItem from="1695456253937" duration="4590000" />
     </task>
     <servers />
   </component>
@@ -199,18 +211,47 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_academy$2_4_13_ChPr.coverage" NAME="2_4_13_ChPr Coverage Results" MODIFIED="1695135829596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_12_Pu.coverage" NAME="2_4_12_Pu Coverage Results" MODIFIED="1695134696130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
-    <SUITE FILE_PATH="coverage/Python_academy$2_4_16_RTU.coverage" NAME="2_4_16_RTU Coverage Results" MODIFIED="1695156108708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
-    <SUITE FILE_PATH="coverage/Python_academy$2_4_18_NG2.coverage" NAME="2_4_18_NG2 Coverage Results" MODIFIED="1695237894966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_1_Azb.coverage" NAME="3_1_1_Azb Coverage Results" MODIFIED="1695405941151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_4_clear.coverage" NAME="3_1_4_clear Coverage Results" MODIFIED="1695410738363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_16_anons2.coverage" NAME="3_1_16_anons2 Coverage Results" MODIFIED="1695417228535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_13_Step.coverage" NAME="3_1_13_Step Coverage Results" MODIFIED="1695414700694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_17_azor5.coverage" NAME="3_1_17_azor5 Coverage Results" MODIFIED="1695450631195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_10_ChAMIN.coverage" NAME="3_1_10_ChAMIN Coverage Results" MODIFIED="1695452364836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_17_Azor3.coverage" NAME="2_4_17_Azor3 Coverage Results" MODIFIED="1695157770025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_3_NG.coverage" NAME="2_4_3_NG Coverage Results" MODIFIED="1695211851163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
-    <SUITE FILE_PATH="coverage/Python_academy$2_4_14_ChZ.coverage" NAME="2_4_14_ChZ Coverage Results" MODIFIED="1695136665668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
-    <SUITE FILE_PATH="coverage/Python_academy$2_4_19_ChK.coverage" NAME="2_4_19_ChK Coverage Results" MODIFIED="1695218272163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
-    <SUITE FILE_PATH="coverage/Python_academy$2_4_20_MB.coverage" NAME="2_4_20_MB Coverage Results" MODIFIED="1695237209948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_15_NOD3.coverage" NAME="3_1_15_NOD3 Coverage Results" MODIFIED="1695415746840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_18_RLE.coverage" NAME="3_1_18_RLE Coverage Results" MODIFIED="1695454019023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_15_ChZ2.coverage" NAME="2_4_15_ChZ2 Coverage Results" MODIFIED="1695209964001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_2_11.coverage" NAME="2_2_11 Coverage Results" MODIFIED="1695451825252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_7_AandB.coverage" NAME="3_1_7_AandB Coverage Results" MODIFIED="1695412209583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_4_18_NG2.coverage" NAME="2_4_18_NG2 Coverage Results" MODIFIED="1695237894966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_11_findall.coverage" NAME="3_1_11_findall Coverage Results" MODIFIED="1695414179988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_2_Kruchu.coverage" NAME="3_1_2_Kruchu Coverage Results" MODIFIED="1695409578913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_19_PolKalc.coverage" NAME="3_1_19_PolKalc Coverage Results" MODIFIED="1695459734743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_4_16_RTU.coverage" NAME="2_4_16_RTU Coverage Results" MODIFIED="1695156108708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_12_Menu.coverage" NAME="3_1_12_Menu Coverage Results" MODIFIED="1695414510502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_20_PolKalc2.coverage" NAME="3_1_20_PolKalc2 Coverage Results" MODIFIED="1695465335421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_4_14_ChZ.coverage" NAME="2_4_14_ChZ Coverage Results" MODIFIED="1695136665668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_4_20_MB.coverage" NAME="2_4_20_MB Coverage Results" MODIFIED="1695237209948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_14_Step2.coverage" NAME="3_1_14_Step2 Coverage Results" MODIFIED="1695414837195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_2_4.coverage" NAME="2_2_4 Coverage Results" MODIFIED="1695451009613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_3_anons.coverage" NAME="3_1_3_anons Coverage Results" MODIFIED="1695411400066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_5_Arosa.coverage" NAME="3_1_5_Arosa Coverage Results" MODIFIED="1695412657476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$2_4_19_ChK.coverage" NAME="2_4_19_ChK Coverage Results" MODIFIED="1695218272163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_6_Zaika6.coverage" NAME="3_1_6_Zaika6 Coverage Results" MODIFIED="1695411764386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_9_BK.coverage" NAME="3_1_9_BK Coverage Results" MODIFIED="1695413604688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$3_1_8_Zaika7.coverage" NAME="3_1_8_Zaika7 Coverage Results" MODIFIED="1695412546600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
   </component>
 </project>

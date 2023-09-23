@@ -4,7 +4,8 @@ def solution(s1: int, s2: int, s3: int):
         s2: 'Вася',
         s3: 'Толя'
     }
-    print(f'1. {sl[max(sl.keys())]}\n2. {sl[s1 + s2 + s3 - min(sl.keys()) -max(sl.keys())]}\n3. {sl[min(sl.keys())]}')
+    print(f'''1. {sl[max(sl.keys())]}\n2. {sl[s1 + s2 + s3 - min(sl.keys()) 
+    - max(sl.keys())]}\n3. {sl[min(sl.keys())]}''')
 
 
 def main():
