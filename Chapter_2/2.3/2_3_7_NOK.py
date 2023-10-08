@@ -1,11 +1,14 @@
+def get_nod(a, b):
+    while a != b:
+        if a > b:
+            a -= b
+        else:
+            b -= a
+    return a
+
+
 def solution(a: int, b: int):
-    m = 0
-    i = max(a, b) + 1
-    while True:
-        if i % a == 0 and i % b == 0:
-            print(i)
-            break
-        i += 1
+    print(a * b // get_nod(a, b))
 
 
 def main():

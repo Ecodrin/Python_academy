@@ -1,7 +1,7 @@
 def solution(s: str):
     ss = ''
     for i in range(len(s)):
-        if s[i] in '13579':
+        if int(s[i]) % 2:
             ss += s[i]
     print(ss)
 
