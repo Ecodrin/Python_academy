@@ -3,18 +3,11 @@ def secret_replace(text, **keyword):
     for symbol in text:
         if keyword.get(symbol):
             decision += keyword[symbol][0]
-            keyword[symbol] = keyword[symbol][1:]
+            keyword[symbol] = list(keyword[symbol][1:]) + [keyword[symbol][0]]
         else:
             decision += symbol
     return decision
 
 
 
-result = secret_replace(
-    "ABRA-KADABRA",
-    A=("Z", "1", "!"),
-    B=("3",),
-    R=("X", "7"),
-    K=("G", "H"),
-    D=("0", "2"),
-)
+result = secret_replace("Hello, world!", l=("hi", "y"), o=("123", "z"))

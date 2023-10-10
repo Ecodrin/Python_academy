@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00b17a19-7b5f-4ca9-994c-f996190e43c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_4/4.2/4_2_10_KluchSecret.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4.2/4_2_10_KluchSecret.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +232,7 @@
       <workItem from="1696769147922" duration="2302000" />
       <workItem from="1696868485349" duration="450000" />
       <workItem from="1696931325486" duration="7176000" />
-      <workItem from="1696955508298" duration="4786000" />
+      <workItem from="1696955508298" duration="5809000" />
     </task>
     <servers />
   </component>
@@ -375,7 +376,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_1_5_Arosa.coverage" NAME="3_1_5_Arosa Coverage Results" MODIFIED="1695412657476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$4_1_3_LenCh.coverage" NAME="4_1_3_LenCh Coverage Results" MODIFIED="1696932440432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_14_Sedewr.coverage" NAME="3_2_14_Sedewr Coverage Results" MODIFIED="1695484876956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
-    <SUITE FILE_PATH="coverage/Python_academy$4_2_10_KluchSecret.coverage" NAME="4_2_10_KluchSecret Coverage Results" MODIFIED="1696960913203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$4_2_10_KluchSecret.coverage" NAME="4_2_10_KluchSecret Coverage Results" MODIFIED="1696961607938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_3_besKomm.coverage" NAME="3_5_3_besKomm Coverage Results" MODIFIED="1696614603667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_6_Zaika6.coverage" NAME="3_1_6_Zaika6 Coverage Results" MODIFIED="1695411764386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_9_BK.coverage" NAME="3_1_9_BK Coverage Results" MODIFIED="1695413604688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
