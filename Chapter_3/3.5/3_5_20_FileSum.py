@@ -1,13 +1,11 @@
 def main():
     su = 0
     with open('numbers.num', 'rb') as f:
-        x = f.read()
+        x = f.read(2)
         while x:
-            print(x)
-            if str(x).count('\\x') == 2:
-                su += int.from_bytes(x, "big")
+            su += int.from_bytes(x, "big")
             x = f.read(2)
-    print(su)
+    print(su % (2 ** 16))
 
 
 if __name__ == '__main__':

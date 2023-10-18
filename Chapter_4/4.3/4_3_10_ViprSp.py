@@ -21,6 +21,10 @@ def index_array(args):
     return indexs
 
 
-result = make_linear([[1], 2, [[3], [4, 5]], [6], [7]])
+def main():
+    result = make_linear([[1], 2, [[3], [4, 5]], [6], [7]])
+    print(result)
 
-print(result)
+
+if __name__ == '__main__':
+    main()
