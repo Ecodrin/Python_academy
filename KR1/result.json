@@ -1,0 +1,51 @@
+{
+    "e": [
+        "everywhere",
+        "learning",
+        "owner",
+        "treasure"
+    ],
+    "r": [
+        "everywhere",
+        "learning",
+        "treasure"
+    ],
+    "i": [
+        "learning",
+        "will"
+    ],
+    "g": [
+        "learning"
+    ],
+    "s": [
+        "is"
+    ],
+    "a": [
+        "treasure"
+    ],
+    "u": [
+        "treasure"
+    ],
+    "h": [
+        "that"
+    ],
+    "t": [
+        "its",
+        "that"
+    ],
+    "l": [
+        "follow",
+        "will"
+    ],
+    "o": [
+        "follow"
+    ],
+    "w": [
+        "everywhere",
+        "follow",
+        "owner"
+    ],
+    "v": [
+        "everywhere"
+    ]
+}
