@@ -16,6 +16,7 @@ def solution(s1: str, s2: str, s3: str):
     s = itertools.combinations(s, 3)
     fl = False
     for j in s:
+        print(j)
         x, y, z = j
         x1, x2 = x
         y1, y2 = y

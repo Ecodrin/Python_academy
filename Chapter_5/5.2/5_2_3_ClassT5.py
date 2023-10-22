@@ -26,6 +26,14 @@ class PatchedPoint(Point):
         else:
             super().__init__(*args)
 
+    def __add__(self, coord_range):
+        return PatchedPoint(self.x + coord_range[0], self.y + coord_range[1])
+
+    def __iadd__(self, coord_range):
+        self.x += coord_range[0]
+        self.y += coord_range[1]
+        return self
+
     def __str__(self):
         return f'({self.x}, {self.y})'
 
@@ -33,7 +41,6 @@ class PatchedPoint(Point):
         return f"PatchedPoint({self.x}, {self.y})"
 
 
-point = PatchedPoint()
-print(point)
-point.move(2, -3)
-print(repr(point))
+first_point = second_point = PatchedPoint((2, -7))
+first_point += (7, 3)
+print(first_point, second_point, first_point is second_point)
