@@ -1,8 +1,13 @@
+import itertools
+
+
 def solution(n, m):
     x = n * m
     max_l = len(str(x))
-    [print(f'{i: >{max_l}}', end=' ') if i % m != 0
-        else print(f'{i: >{max_l}}')for i in range(1, n * m + 1)]
+    for x, y in itertools.product([i for i in range(n)], [i for i in range(1, m + 1)]):
+        print(f'{x * m + y: >{max_l}}', end=' ')
+        if y == m:
+            print()
 
 
 def main():

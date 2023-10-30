@@ -14,7 +14,7 @@ class Fraction:
         else:
             self.our_numerator = args[0]
             self.our_denominator = args[1]
-        print(self.our_numerator, self.our_denominator)
+        self.__usingnod()
 
     def __usingnod(self):
         g = nod(self.our_numerator, self.our_denominator)
@@ -31,24 +31,21 @@ class Fraction:
     def numerator(self, number=None):
         if number is None:
             return abs(self.our_numerator)
-        self.our_numerator = number
+        self.our_numerator = number * self.our_numerator // abs(self.our_numerator)
         self.__usingnod()
         return self
 
     def __str__(self):
-        self.__usingnod()
         return f'{self.our_numerator}/{self.our_denominator}'
 
     def __repr__(self):
-        self.__usingnod()
         return f"Fraction('{self.our_numerator}/{self.our_denominator}')"
 
     def __neg__(self):
-        self.__usingnod()
         return Fraction(self.our_numerator * (-1), self.our_denominator)
 
 
-a = Fraction(-301, 769)
-print(a, repr(a), a.our_numerator, a.our_denominator)
-
-
+fraction = Fraction(3, 9)
+print(fraction, repr(fraction))
+fraction = Fraction('7/14')
+print(fraction, repr(fraction))
