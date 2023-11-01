@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00b17a19-7b5f-4ca9-994c-f996190e43c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.4/3_4_11_ChPrim.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.4/3_4_11_ChPrim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5.1/5_1_7_ClassPriam3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5.1/5_1_7_ClassPriam3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5.2/5_2_5_DrobX2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5.2/5_2_5_DrobX2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +54,12 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.J_5_3_10_ValPower">
-    <configuration name="F_5_3_6_KorenSla2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.J_6_2_10_ExtremeFunc">
+    <configuration name="F_6_2_6_Otchet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_5/5.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_6/6.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_5/5.3/F_5_3_6_KorenSla2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/6.2/F_6_2_6_Otchet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="G_5_3_7_ValName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="G_6_2_7_OtchetNe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_5/5.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_6/6.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_5/5.3/G_5_3_7_ValName.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/6.2/G_6_2_7_OtchetNe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="H_5_3_8_ValNamePo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="H_6_2_8_Obn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_5/5.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_6/6.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_5/5.3/H_5_3_8_ValNamePo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/6.2/H_6_2_8_Obn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="I_5_3_9_ValPol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="I_6_2_9_MorBoi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_5/5.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_6/6.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_5/5.3/I_5_3_9_ValPol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/6.2/I_6_2_9_MorBoi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="J_5_3_10_ValPower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="J_6_2_10_ExtremeFunc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_5/5.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_6/6.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_5/5.3/J_5_3_10_ValPower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/6.2/J_6_2_10_ExtremeFunc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.J_5_3_10_ValPower" />
-        <item itemvalue="Python.I_5_3_9_ValPol" />
-        <item itemvalue="Python.H_5_3_8_ValNamePo" />
-        <item itemvalue="Python.G_5_3_7_ValName" />
-        <item itemvalue="Python.F_5_3_6_KorenSla2" />
+        <item itemvalue="Python.J_6_2_10_ExtremeFunc" />
+        <item itemvalue="Python.I_6_2_9_MorBoi" />
+        <item itemvalue="Python.H_6_2_8_Obn" />
+        <item itemvalue="Python.G_6_2_7_OtchetNe" />
+        <item itemvalue="Python.F_6_2_6_Otchet" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +276,13 @@
       <workItem from="1698258872552" duration="9137000" />
       <workItem from="1698575939240" duration="4016000" />
       <workItem from="1698580648868" duration="9284000" />
-      <workItem from="1698675294358" duration="5085000" />
+      <workItem from="1698675294358" duration="5937000" />
+      <workItem from="1698684097332" duration="417000" />
+      <workItem from="1698688964659" duration="1780000" />
+      <workItem from="1698692632966" duration="3269000" />
+      <workItem from="1698763631565" duration="7655000" />
+      <workItem from="1698772354441" duration="12300000" />
+      <workItem from="1698818585274" duration="2666000" />
     </task>
     <servers />
   </component>
@@ -329,6 +332,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_1_18_RLE.coverage" NAME="3_1_18_RLE Coverage Results" MODIFIED="1695454019023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$B_5_3_2_Lom.coverage" NAME="B_5_3_2_Lom Coverage Results" MODIFIED="1698579857014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_5_NakopRes.coverage" NAME="4_3_5_NakopRes Coverage Results" MODIFIED="1697137811100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
+    <SUITE FILE_PATH="coverage/Python_academy$E_6_1_5_ShagNa.coverage" NAME="E_6_1_5_ShagNa Coverage Results" MODIFIED="1698765224870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_7_AandB.coverage" NAME="3_1_7_AandB Coverage Results" MODIFIED="1695412209583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_18_NG2.coverage" NAME="2_4_18_NG2 Coverage Results" MODIFIED="1696600448018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_13_RastSport.coverage" NAME="3_4_13_RastSport Coverage Results" MODIFIED="1696150471885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
@@ -338,16 +342,20 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_4_6_KolodKart.coverage" NAME="3_4_6_KolodKart Coverage Results" MODIFIED="1696096634622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_2_RekSummCifr.coverage" NAME="4_3_2_RekSummCifr Coverage Results" MODIFIED="1697134272536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_5_kaseed2.coverage" NAME="3_2_5_kaseed2 Coverage Results" MODIFIED="1695470049583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$G_6_1_7_Shachmat.coverage" NAME="G_6_1_7_Shachmat Coverage Results" MODIFIED="1698766078204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_3_4_MnNechet.coverage" NAME="3_3_4_MnNechet Coverage Results" MODIFIED="1696009109173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_11_ChPrim.coverage" NAME="3_4_11_ChPrim Coverage Results" MODIFIED="1697999710610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_20_PolKalc2.coverage" NAME="3_1_20_PolKalc2 Coverage Results" MODIFIED="1695465335421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$C_6_2_3_Check2.coverage" NAME="C_6_2_3_Check2 Coverage Results" MODIFIED="1698779240159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$5_2_4_DrobX1.coverage" NAME="5_2_4_DrobX1 Coverage Results" MODIFIED="1697916281431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_15_PostSebNaM.coverage" NAME="3_5_15_PostSebNaM Coverage Results" MODIFIED="1696685869625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_20_MB.coverage" NAME="2_4_20_MB Coverage Results" MODIFIED="1695237209948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_14_Step2.coverage" NAME="3_1_14_Step2 Coverage Results" MODIFIED="1695414837195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_19_tableIst2.coverage" NAME="3_4_19_tableIst2 Coverage Results" MODIFIED="1696361428642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$E_5_3_5_SlianieProv.coverage" NAME="E_5_3_5_SlianieProv Coverage Results" MODIFIED="1698586387360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
+    <SUITE FILE_PATH="coverage/Python_academy$H_6_2_8_Obn.coverage" NAME="H_6_2_8_Obn Coverage Results" MODIFIED="1698786846618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_17_Variant.coverage" NAME="3_4_17_Variant Coverage Results" MODIFIED="1697895658455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$B_6_2_2_lenChet.coverage" NAME="B_6_2_2_lenChet Coverage Results" MODIFIED="1698776911551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$SlovElka.coverage" NAME="SlovElka Coverage Results" MODIFIED="1696094816168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_9_zaika9.coverage" NAME="3_2_9_zaika9 Coverage Results" MODIFIED="1695473184725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$5_1_9_Ochered.coverage" NAME="5_1_9_Ochered Coverage Results" MODIFIED="1697556319856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
@@ -357,8 +365,10 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_2_19_Sob.coverage" NAME="3_2_19_Sob Coverage Results" MODIFIED="1695546466960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_8_menuPit2.coverage" NAME="3_4_8_menuPit2 Coverage Results" MODIFIED="1696097829404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$5_3_1_ObrError.coverage" NAME="A_5_3_1_ObrError Coverage Results" MODIFIED="1698578623619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
-    <SUITE FILE_PATH="coverage/Python_academy$J_5_3_10_ValPower.coverage" NAME="J_5_3_10_ValPower Coverage Results" MODIFIED="1698680246962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
+    <SUITE FILE_PATH="coverage/Python_academy$J_5_3_10_ValPower.coverage" NAME="J_5_3_10_ValPower Coverage Results" MODIFIED="1698684252134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_5_SpPok.coverage" NAME="3_4_5_SpPok Coverage Results" MODIFIED="1696095201103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$I_6_1_9_Vra.coverage" NAME="I_6_1_9_Vra Coverage Results" MODIFIED="1698768851879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$A_6_2_1_LenallWord.coverage" NAME="A_6_2_1_LenallWord Coverage Results" MODIFIED="1698776389293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_18_SkVes_1.coverage" NAME="3_5_18_SkVes_1 Coverage Results" MODIFIED="1696691568009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_12_Pu.coverage" NAME="2_4_12_Pu Coverage Results" MODIFIED="1695134696130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_14_SportGad.coverage" NAME="3_4_14_SportGad Coverage Results" MODIFIED="1696150520670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
@@ -378,6 +388,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$111.coverage" NAME="111 Coverage Results" MODIFIED="1698577885392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_11_FileStat2.coverage" NAME="3_5_11_FileStat2 Coverage Results" MODIFIED="1696672638983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_10_Hwost.coverage" NAME="3_5_10_Hwost Coverage Results" MODIFIED="1696668027484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
+    <SUITE FILE_PATH="coverage/Python_academy$F_6_2_6_Otchet.coverage" NAME="F_6_2_6_Otchet Coverage Results" MODIFIED="1698782821662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_1_A_B.coverage" NAME="3_5_1_A+B Coverage Results" MODIFIED="1696608914120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_3_MnogNstep.coverage" NAME="4_3_3_MnogNstep Coverage Results" MODIFIED="1697135167751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_6_MergeSort.coverage" NAME="4_3_6_MergeSort Coverage Results" MODIFIED="1697139061592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
@@ -394,7 +405,9 @@
     <SUITE FILE_PATH="coverage/Python_academy$5_1_10_Stek.coverage" NAME="5_1_10_Stek Coverage Results" MODIFIED="1697556512249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
     <SUITE FILE_PATH="coverage/Python_academy$F_5_3_6_KorenSla2.coverage" NAME="F_5_3_6_KorenSla2 Coverage Results" MODIFIED="1698590089584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_16_RaskladTak.coverage" NAME="3_4_16_RaskladTak Coverage Results" MODIFIED="1696328334237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
+    <SUITE FILE_PATH="coverage/Python_academy$D_6_2_4_Stock.coverage" NAME="D_6_2_4_Stock Coverage Results" MODIFIED="1698781046594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_10_tranc.coverage" NAME="3_2_10_tranc Coverage Results" MODIFIED="1696665421855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$D_6_1_4_SrNeArifm.coverage" NAME="D_6_1_4_SrNeArifm Coverage Results" MODIFIED="1698764873384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_7_IgrSet.coverage" NAME="3_4_7_IgrSet Coverage Results" MODIFIED="1696145040335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$2_3_17_clear.coverage" NAME="2_3_17_clear Coverage Results" MODIFIED="1696571537603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_6_44_sLOVARcOMB_PY.coverage" NAME="3_6_44_sLOVARcOMB.PY Coverage Results" MODIFIED="1697872927718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KR1" />
@@ -402,6 +415,8 @@
     <SUITE FILE_PATH="coverage/Python_academy$4_3_1_RekSum.coverage" NAME="4_3_1_RekSum Coverage Results" MODIFIED="1697134107239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
     <SUITE FILE_PATH="coverage/Python_academy$4_1_2_FuncNOD.coverage" NAME="4_1_2_FuncNOD Coverage Results" MODIFIED="1696932207645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.1" />
     <SUITE FILE_PATH="coverage/Python_academy$4_2_1_GenSpis.coverage" NAME="4_2_1_GenSpis Coverage Results" MODIFIED="1696935404378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$A_6_1_1_Mat.coverage" NAME="A_6_1_1_Mat Coverage Results" MODIFIED="1698690117735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$H_6_1_8_ChZm3.coverage" NAME="H_6_1_8_ChZm3 Coverage Results" MODIFIED="1698768131247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$5_2_3_ClassT5.coverage" NAME="5_2_3_ClassT5 Coverage Results" MODIFIED="1697901857241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_7_Filestat.coverage" NAME="3_5_7_Filestat Coverage Results" MODIFIED="1696666347182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$3_3_5_MnPolKw.coverage" NAME="3_3_5_MnPolKw Coverage Results" MODIFIED="1696009317484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.3" />
@@ -428,6 +443,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_1_11_findall.coverage" NAME="3_1_11_findall Coverage Results" MODIFIED="1695414179988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_2_Kruchu.coverage" NAME="3_1_2_Kruchu Coverage Results" MODIFIED="1695409578913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$5_1_3_NeNag.coverage" NAME="5_1_3_NeNag Coverage Results" MODIFIED="1697472376102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
+    <SUITE FILE_PATH="coverage/Python_academy$B_6_1_2_PotNOD.coverage" NAME="B_6_1_2_PotNOD Coverage Results" MODIFIED="1698696179963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$4_1_8_ARosaUp7.coverage" NAME="4_1_8_ARosaUp7 Coverage Results" MODIFIED="1696933402326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.1" />
     <SUITE FILE_PATH="coverage/Python_academy$G_5_3_7_ValName.coverage" NAME="G_5_3_7_ValName Coverage Results" MODIFIED="1698676309462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_3_6_BukwStat.coverage" NAME="3_3_6_BukwStat Coverage Results" MODIFIED="1696009735741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.3" />
@@ -438,12 +454,14 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_2_3_zaika8.coverage" NAME="3_2_3_zaika8 Coverage Results" MODIFIED="1695468745009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_10_WeDelAp.coverage" NAME="3_4_10_WeDelAp Coverage Results" MODIFIED="1696148497553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$5_1_6_ClassPriam2.coverage" NAME="5_1_6_ClassPriam2 Coverage Results" MODIFIED="1697481055914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
+    <SUITE FILE_PATH="coverage/Python_academy$E_6_2_5_DlWords.coverage" NAME="E_6_2_5_DlWords Coverage Results" MODIFIED="1698780754645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_6_TransLit2.coverage" NAME="3_5_6_TransLit2 Coverage Results" MODIFIED="1696665738073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_19_ChK.coverage" NAME="2_4_19_ChK Coverage Results" MODIFIED="1695218272163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_3_7_del.coverage" NAME="3_3_7_del Coverage Results" MODIFIED="1696009890857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_13_Vkusno.coverage" NAME="3_2_13_Vkusno Coverage Results" MODIFIED="1695483892578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_4_Dekor.coverage" NAME="4_3_4_Dekor Coverage Results" MODIFIED="1697136929515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_8_Zaika7.coverage" NAME="3_1_8_Zaika7 Coverage Results" MODIFIED="1695412546600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$C_6_1_3_Variant.coverage" NAME="C_6_1_3_Variant Coverage Results" MODIFIED="1698764152185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_13_ChPr.coverage" NAME="2_4_13_ChPr Coverage Results" MODIFIED="1695135829596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_6_kaseed3.coverage" NAME="3_2_6_kaseed3 Coverage Results" MODIFIED="1695471392654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_7_OdnoNe.coverage" NAME="4_3_7_OdnoNe Coverage Results" MODIFIED="1697140049392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
@@ -451,6 +469,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_1_13_Step.coverage" NAME="3_1_13_Step Coverage Results" MODIFIED="1695414700694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$5_1_8_Saski.coverage" NAME="5_1_8_Saski Coverage Results" MODIFIED="1697555236671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
     <SUITE FILE_PATH="coverage/Python_academy$4_2_3_FuncNOD.coverage" NAME="4_2_3_FuncNOD Coverage Results" MODIFIED="1696936200721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$G_6_2_7_OtchetNe.coverage" NAME="G_6_2_7_OtchetNe Coverage Results" MODIFIED="1698785992630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_17_friends.coverage" NAME="3_2_17_friends Coverage Results" MODIFIED="1695822347242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_4_15_SpPok3.coverage" NAME="3_4_15_SpPok3 Coverage Results" MODIFIED="1696150842724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_6_1_ShnkStrok.coverage" NAME="3_6_1_ShnkStrok Coverage Results" MODIFIED="1697870653661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KR1" />
@@ -465,10 +484,12 @@
     <SUITE FILE_PATH="coverage/Python_academy$2_3_7_NOK.coverage" NAME="2_3_7_NOK Coverage Results" MODIFIED="1696276749461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.3" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_1_Simv.coverage" NAME="3_2_1_Simv Coverage Results" MODIFIED="1695468335144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_11_odnofam.coverage" NAME="3_2_11_odnofam Coverage Results" MODIFIED="1695482681010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
+    <SUITE FILE_PATH="coverage/Python_academy$J_6_1_10_Lecenka.coverage" NAME="J_6_1_10_Lecenka Coverage Results" MODIFIED="1698772171836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_2_4_kaseed.coverage" NAME="3_2_4_kaseed Coverage Results" MODIFIED="1695469090876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$4_2_9_ChetFilter.coverage" NAME="4_2_9_ChetFilter Coverage Results" MODIFIED="1696959895078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.2" />
     <SUITE FILE_PATH="coverage/Python_academy$5_2_5_DrobX2.coverage" NAME="5_2_5_DrobX2 Coverage Results" MODIFIED="1698260516488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.2" />
     <SUITE FILE_PATH="coverage/Python_academy$4_1_10_Slianie.coverage" NAME="4_1_10_Slianie Coverage Results" MODIFIED="1696933990948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.1" />
+    <SUITE FILE_PATH="coverage/Python_academy$F_6_1_6_MatrUmn.coverage" NAME="F_6_1_6_MatrUmn Coverage Results" MODIFIED="1698765906973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.1" />
     <SUITE FILE_PATH="coverage/Python_academy$5_1_2_ClassTo2.coverage" NAME="5_1_2_ClassTo2 Coverage Results" MODIFIED="1697472625331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_19_PolKalc.coverage" NAME="3_1_19_PolKalc Coverage Results" MODIFIED="1695459734743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$4_3_8_GenFib.coverage" NAME="4_3_8_GenFib Coverage Results" MODIFIED="1697182036628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.3" />
@@ -477,6 +498,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_2_16_zaika10.coverage" NAME="3_2_16_zaika10 Coverage Results" MODIFIED="1695495391845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$2_4_14_ChZ.coverage" NAME="2_4_14_ChZ Coverage Results" MODIFIED="1695136665668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/2.4" />
     <SUITE FILE_PATH="coverage/Python_academy$C_5_3_3_Lom2.coverage" NAME="C_5_3_3_Lom2 Coverage Results" MODIFIED="1698580866682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.3" />
+    <SUITE FILE_PATH="coverage/Python_academy$J_6_2_10_ExtremeFunc.coverage" NAME="J_6_2_10_ExtremeFunc Coverage Results" MODIFIED="1698821246871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$5_2_7_DrobX4.coverage" NAME="5_2_7_DrobX4 Coverage Results" MODIFIED="1697968051508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/5.2" />
     <SUITE FILE_PATH="coverage/Python_academy$Raz_Sc.coverage" NAME="Raz_Sc Coverage Results" MODIFIED="1696094010284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.4" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_5_Arosa.coverage" NAME="3_1_5_Arosa Coverage Results" MODIFIED="1695412657476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
@@ -485,6 +507,7 @@
     <SUITE FILE_PATH="coverage/Python_academy$3_2_14_Sedewr.coverage" NAME="3_2_14_Sedewr Coverage Results" MODIFIED="1695484876956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.2" />
     <SUITE FILE_PATH="coverage/Python_academy$4_2_10_KluchSecret.coverage" NAME="4_2_10_KluchSecret Coverage Results" MODIFIED="1696961607938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/4.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_3_besKomm.coverage" NAME="3_5_3_besKomm Coverage Results" MODIFIED="1696614603667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
+    <SUITE FILE_PATH="coverage/Python_academy$I_6_2_9_MorBoi.coverage" NAME="I_6_2_9_MorBoi Coverage Results" MODIFIED="1698819719319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/6.2" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_6_Zaika6.coverage" NAME="3_1_6_Zaika6 Coverage Results" MODIFIED="1695411764386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_1_9_BK.coverage" NAME="3_1_9_BK Coverage Results" MODIFIED="1695413604688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/3.1" />
     <SUITE FILE_PATH="coverage/Python_academy$3_5_20_FileSum.coverage" NAME="3_5_20_FileSum Coverage Results" MODIFIED="1697470438663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/3.5" />
